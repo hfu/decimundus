@@ -3,6 +3,15 @@ A way to divide the globe into 10 parts for equal amount of OSM data
 
 ![decimundus](decimundus.jpg)
 
+# usage
+```javascript
+const decimundus = require('./decimundus.js')
+for (const d of decimundus) {
+  { minx: d[0], miny: d[1], maxx: d[2], maxy: d[3] }
+}
+```
+
+# definitions
 ## #1
 - 3/4/3 + 3/5/3
 
