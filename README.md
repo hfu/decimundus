@@ -1,4 +1,5 @@
 # decimundus
+# NOT MAINTAINED: I currently use [duodecim](https://github.com/hfu/duodecim)
 A way to divide the globe into 10 parts for equal amount of OSM data
 
 ![decimundus](decimundus.jpg)
